@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "amannirala13",
+      "name": "Aman Nirala",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35570939?v=4",
+      "profile": "https://www.github.com/amannirala13/",
+      "contributions": [
+        "code",
+        "doc",
+        "blog",
+        "design",
+        "ideas",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Quantum-Algorithms",
+  "projectOwner": "amannirala13",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
